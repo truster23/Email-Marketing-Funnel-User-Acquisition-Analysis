@@ -2,7 +2,7 @@
 
 This project analyzes the performance of email marketing campaigns and user acquisition metrics across different countries. Using data extracted and transformed in Google BigQuery, this analysis evaluates the conversion funnel from email delivery to website visits.
 
-### [View Interactive Dashboard in Looker Studio](https://lookerstudio.google.com/reporting/d6cbeee1-9bc3-480e-b140-f26f2938c99a))
+### [View Interactive Dashboard in Looker Studio](https://lookerstudio.google.com/reporting/d6cbeee1-9bc3-480e-b140-f26f2938c99a)
 
 ---
 
